@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GameChampion</string>
     <string name="title">제목입니다.</string>
+    <string name="default_name">트위니 트위치</string>
 </resources>
